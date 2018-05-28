@@ -69,7 +69,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "春阳照孤坟<br>垄中逝者陌上人<br>幽冥本难分"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/001.PNG      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
