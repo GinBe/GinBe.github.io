@@ -1,5 +1,5 @@
 # Site settings
-title: Hux Blog
+title: Ginbe Blog
 SEOTitle: 勇士喜欢巨乳有错吗的博客 | GinBe
 header-img: img/home-bg.jpg
 email: asdfwxwx@gmail.com
@@ -48,7 +48,8 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: 
+
 
 # Netease setttings
 netease_comment: false
@@ -67,7 +68,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，<br>离开世界之前，一切都是过程"
+sidebar-about-description: "春阳照孤坟<br>垄中逝者陌上人<br>幽冥本难分"
 sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -90,15 +91,10 @@ friends: [
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
-        title: "乱序",
-        href: "http://mida.re/"
-    },{
-        title: "前端外刊评论",
-        href: "http://qianduan.guru/"
-    },{
-        title: "天镶的博客",
-        href: "http://lingyu.wang/"
-    },{
+    #    title: "乱序",
+    #   href: "http://mida.re/"
+    #},{
+        
 
     }
 ]
